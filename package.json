@@ -1,0 +1,24 @@
+{
+  "name": "js_n_3",
+  "version": "1.0.0",
+  "description": "Homework two",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon ./app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vognev2017/EEF_project_JS_N_2.git"
+  },
+  "author": "henadiyv@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vognev2017/EEF_project_JS_N_2/issues"
+  },
+  "homepage": "https://github.com/Vognev2017/EEF_project_JS_N_2#readme",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "moment": "^2.29.4"
+  }
+}
